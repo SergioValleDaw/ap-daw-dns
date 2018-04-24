@@ -17,5 +17,6 @@ pc2			IN	A	172.30.0.12
 ftp				CNAME 	pc2
 pc3			IN	A	172.30.0.11
 correos			IN 	A	172.30.0.11
+pc4			IN 	A	172.30.0.15
 
 
